@@ -1,0 +1,2 @@
+# graphql
+Exercise on graphQL
